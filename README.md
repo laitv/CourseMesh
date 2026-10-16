@@ -1,2 +1,2 @@
 # CourseMesh
-Quize by AI 
+Quiz by AI 
